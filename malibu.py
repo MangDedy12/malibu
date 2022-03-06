@@ -5,11 +5,11 @@ from telethon import TelegramClient, events
 
 load_dotenv()
 
-api_id = os.getenv("API_ID")
-api_hash = os.getenv("API_HASH")
+api_id = os.getenv("9175719")
+api_hash = os.getenv("24bf733220dff7a6ede29381ef7c92c5")
 
-phone = os.getenv("TELEGRAM_PHONE_NUMBER")
-session_file = os.getenv("TELEGRAM_USERNAME")
+phone = os.getenv("+6285743300481")
+session_file = os.getenv("@Baim2bos")
 password = os.getenv("TELEGRAM_PASSWORD")
 
 toggle_auto_reply = False
